@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#159A5B"/>
+  <text x="256" y="240" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="148" fill="white" text-anchor="middle" dominant-baseline="middle" letter-spacing="-4">re</text>
+  <text x="256" y="340" font-family="Inter, Arial, sans-serif" font-weight="900" font-size="100" fill="rgba(255,255,255,0.85)" text-anchor="middle" dominant-baseline="middle" letter-spacing="-2">loop</text>
+</svg>
